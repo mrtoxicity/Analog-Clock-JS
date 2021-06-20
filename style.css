@@ -40,7 +40,7 @@ body.light .clock {
   position: absolute;
   width: 15px;
   height: 15px;
-  background: #fff;
+  background: #008eff;
   z-index: 1000;
   border-radius: 50%;
 }
